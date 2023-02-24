@@ -11,3 +11,177 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* @font-face{
+  font-family: 'zeyada';
+  src:url('../public/fonts/Zeyada/Zeyada-Regular.ttf')
+}
+@font-face{
+  font-family: 'sue';
+  src:url('../public/fonts/SueEllenFrancisco-Regular.ttf')
+} */
+.carousel-caption h1{
+  font-family: 'zeyada';
+}
+.nameheart{
+  font-family: 'sue';
+  font-weight:600;
+  font-size: larger;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.height-banner{
+  max-height: 400px;
+}
+.sapacontent1{
+  max-width: 500px;
+  margin-left: 150px;
+  
+}
+.sapacontent2{
+ width: 100%;
+ height: auto;
+  margin-top: 50px ;
+
+}
+.SapaBg{
+  background-color: blanchedalmond;
+}
+.tieude{
+  margin-top: 50px;
+  color: red;
+}
+.index1{
+  text-align: left;
+}
+.indexdanhlam{
+  color: red;
+}
+.me-auto{
+  font-family:'Arial Narrow Bold';
+}
+.heart1{
+  background-color: antiquewhite;
+}
+.catbut{
+ width: 450px;
+ background-color: antiquewhite;
+}
+.catatable{
+  border: 2px solid black;
+}
+.catatable td{
+  border: 1px solid black;
+  padding: 37px;
+}
+.prodt{
+  border: 2px solid black;
+}
+.prodt td{
+
+  border: 1px solid black;
+  padding: 20px;
+}
+.prodt tr{
+  border: 1px solid black;
+}
+.proadd{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.productadd{
+  width: 350px ;
+  background-color: antiquewhite;
+}
+.productCreate{
+  border: 1px solid black;
+  margin-left: 400px;
+  background-color: beige;
+
+}
+.productCreate td{
+  border: 1px ;
+  padding: 20px;
+}
+.add1{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.productEdit{
+  border: 1px solid black;
+  margin-left: 400px;
+  background-color: beige;
+  
+}
+.productEdit td{
+  border: 1px ;
+  padding: 20px;
+}
+.add2{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.taodanhmuc{
+  border: 1px solid black;
+  margin-left: 400px;
+  background-color: beige;
+}
+.taodanhmuc td {
+  border: 1px ;
+  padding: 20px;
+}
+
+.taodanhmucadd{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.catalogedit{
+  border: 1px solid black;
+  margin-left: 400px;
+  background-color: beige;
+
+}
+.catalogedit td{
+  border: 1px ;
+  padding: 20px;
+}
+.butoncatalogeditbutton{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.dangki{
+  border: 1px solid black;
+  margin-left: 550px;
+  background-color: beige;
+}
+.dangki td{
+  border: 1px ;
+  padding: 20px;
+}
+.dangkibutoon{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.dangnhap{
+  border: 1px solid black;
+  margin-left: 550px;
+  background-color: beige;
+}
+.dangnhap td{
+  border: 1px ;
+  padding: 10px;
+}
+.dangnhapbutoon{
+  width: 350px;
+  background-color: antiquewhite;
+}
+.hotelstay1{
+  background-color: antiquewhite;
+}
+.hotelstay1 h4{
+  margin-top: 20px;
+}
+.restaurent1{
+  text-align: center;
+}
